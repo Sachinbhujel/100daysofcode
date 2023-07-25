@@ -1,0 +1,32 @@
+.main{
+  text-align: center;
+}
+
+.btn2{
+  text-align: center;
+}
+
+.btn button{
+  width: 120px;
+  height: 40px;
+  background: black;
+  font-size: 16px;
+  text-transform: uppercase;
+  color: white;
+  border-radius: 4px;
+}
+
+
+.btn{
+  width: 100px;
+  height: 40px;
+  font-size: 20px;
+  border-radius: 3px;
+  background: black;
+  color: white;
+}
+
+#notMain{
+  text-align: center;
+  display: none;
+}
