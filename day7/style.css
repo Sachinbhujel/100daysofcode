@@ -1,0 +1,11 @@
+h1{
+  font-size: 60px;
+  text-align: center;
+  margin-top: 200px;
+  font-weight: bold;
+}
+
+body{
+  background-color: #ff0077;
+  color: #fff;
+}
