@@ -1,0 +1,46 @@
+.main {
+  background-color: #f2f2f2;
+  border: 3px solid black;
+  padding: 20px;
+}
+
+input{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+button{
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover{
+  opacity: 0.8;
+}
+
+.buttons{
+  padding-bottom: 10px;
+}
+
+.bmi{
+  display: none;
+  background: #c0d1c5;
+  padding: 1px 10px;
+  height: 110px;
+}
+
+#bmi-heading{
+  font-size: 20px;
+}
+
+#bmi-output{
+  position: relative;
+  top: -25px;
+  font-size: 35px;
+}
