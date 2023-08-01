@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+}
+
+.navBar{
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background-color: black;
+  color: white;
+}
+
+.color{
+ color: lightblue; 
+}
+
+h4{
+  font-size: 30px;
+}
+
+.navBar ul li{
+  list-style: none;
+  font-size: 20px;
+}
+
+.main{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  height: 450px;
+  text-align: center;
+  color: white;
+}
+
+.container{
+  background: black;
+  padding: 0px 10px 20px 10px;
+}
+
+h2{
+  font-size: 25px;
+  padding: 20px;
+}
+
+.btn{
+  font-size: 18px;
+}
