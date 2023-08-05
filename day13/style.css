@@ -1,1 +1,28 @@
+*{
+  margin: 0;
+}
 
+.slideShow{
+  position: relative;
+}
+
+.photos img{
+  width: 100%;
+}
+
+.btn{
+  position: absolute;
+  top: 45%;
+  width: auto;
+  font-size: 18px;
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.btnRight{
+  right: 0;
+}
+
+.btn:hover{
+  background-color: black;
+}
